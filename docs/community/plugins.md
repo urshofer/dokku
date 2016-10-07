@@ -119,6 +119,7 @@ Note: The following plugins have been supplied by our community and may not have
 [thrashr888]: https://github.com/thrashr888
 [wmluke]: https://github.com/wmluke
 [Zenedith]: https://github.com/Zenedith
+[urshofer]: https://github.com/urshofer
 
 ### Datastores
 
@@ -222,6 +223,8 @@ Note: The following plugins have been supplied by our community and may not have
 | [Webhooks](https://github.com/nickstenning/dokku-webhooks)                                        | [nickstenning][]      | 0.3.x                 |
 | [Wkhtmltopdf](https://github.com/mbriskar/dokku-wkhtmltopdf)                                      | [mbriskar][]          | 0.4.0+                |
 | [Wordpress Setup](https://github.com/dudagroup/dokku-wordpress-template)                          | [abossard][]          |                       |
+| [Copy File & Untar](https://github.com/urshofer/dokku-untar-to-public)                            | [urshofer][]          |                       |
+
 
 ### Deprecated Plugins
 
